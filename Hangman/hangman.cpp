@@ -8,14 +8,20 @@ using namespace std;
 
 
 
-void array(){
-  size_t size=10;
-  vector<int> words(size);
-
-  for(int i=0; i<size; ++i){
-    words[i]=i;
-    cout <<"These are the words:"<< words[i]<<endl;
+int array(){
+  vector<string> wordlist;
+  string word;
+  ifstream file("words.txt");
+  while (getline>(file, word)){
+    wordlist.push_back(word);
   }
+  for (unsigned n=0; n<wordlist.size(); n++){
+    cout<<wordlist.at(n)<<"";
+  }
+
+  return 0;
+
+
 }
 
 

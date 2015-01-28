@@ -35,6 +35,11 @@ Thanks to the millions of guides out there that helped with this tricky language
 Questions? Email <geracam@mit.edu>. 
 
 
-> It used to be that we imagined that our mobile phones would be for us to talk to each other. Now, our mobile phones are there to talk to us. -Sherry Turkle
+> How C++ is like teenage sex:
+It is on everyone's mind all the time.
+Everyone talks about it all the time.
+Everyone thinks everyone else is doing it.
+Almost no one is really doing it.
+The few who are doing it are: A. Doing it poorly. B. Sure it will be better next time. C. Not practicing it safely.
 
 ![hellyeah](http://www.troll.me/images/x-all-the-things/learn-all-the-c.jpg)

@@ -35,6 +35,6 @@ Thanks to the millions of guides out there that helped with this tricky language
 Questions? Email <geracam@mit.edu>. 
 
 
-> It used to be that we imagined that our mobile phones would be for us to talk to each other. Now, our mobile phones are there to talk to us. -Sherry Turkle
+> It's 5.50 a.m.... Do you know where your stack pointer is ?
 
 ![hellyeah](http://www.troll.me/images/x-all-the-things/learn-all-the-c.jpg)

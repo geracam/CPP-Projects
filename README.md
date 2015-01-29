@@ -26,6 +26,8 @@
 
 6.  **bombsAway** - The wrap up of all the concepts of programs 1-5.
 
+7. **time** - An introduction to C++ classes.
+
 
 
 ### Thanks
